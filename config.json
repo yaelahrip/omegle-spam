@@ -1,0 +1,36 @@
+{
+	"eventRefreshInterval": 3000,
+	"matchTimeout": 30000,
+	"captchaSiteKey": "6LekMVAUAAAAAPDp1Cn7YMzjZynSb9csmX5V4a9P",
+	"antiCaptchaKey": "",
+	"antiCaptchaDelay": 5000,
+	"antiCaptchaTimeout": 600000,
+	"patterns": [
+		{
+			"identifier": "default",
+			"pattern": {
+				"interests": [
+					"discord",
+					"communication",
+					"teamspeak"
+				],
+				"messages": [
+					[
+						"Hello World!",
+						"How is the weather today?"
+					],
+					[
+						"H",
+						"e",
+						"l",
+						"l",
+						"o"
+					]
+				]
+			}
+		}
+	],
+	"threads": [
+		"default"
+	]
+}

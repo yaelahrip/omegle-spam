@@ -1,0 +1,23 @@
+{
+  "name": "omegle-spam",
+  "version": "1.0.0",
+  "description": "Some small project I made over 10 months ago so don't mind the ugly code. Connects to a stranger, sends random message(s), disconnects from the stranger and repeats. Includes Anti-Captcha for automatically solving Google Captcha.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeepIsla/omegle-spam.git"
+  },
+  "keywords": [],
+  "author": "BeepIsla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BeepIsla/omegle-spam/issues"
+  },
+  "homepage": "https://github.com/BeepIsla/omegle-spam#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
