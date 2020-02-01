@@ -2,6 +2,8 @@
 
 Some small project I made over 10 months ago so don't mind the ugly code. Connects to a stranger, sends random message(s), disconnects from the stranger and repeats. Includes Anti-Captcha for automatically solving Google Captcha.
 
+- For help add `jan#8123` on Discord
+
 ---
 
 # Requirements
